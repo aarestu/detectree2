@@ -21,10 +21,10 @@ setup(
         "pygeos",
         "shapely",
         "geopandas",
-        "rasterio==1.3a3",
+        "rasterio",
         "fiona",
         "pycrs",
         "descartes",
-        "detectron2@git+https://github.com/facebookresearch/detectron2.git",
+        "detectron2",
     ],
 )
